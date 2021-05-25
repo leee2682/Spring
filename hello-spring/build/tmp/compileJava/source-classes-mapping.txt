@@ -1,11 +1,2 @@
 hello/hellospring/HelloSpringApplication.java
  hello.hellospring.HelloSpringApplication
-hello/hellospring/HelloController.java
- hello.hellospring.HelloController
- hello.hellospring.HelloController$Hello
-repository/MemberRepository.java
- repository.MemberRepository
-repository/MemoryMemberRepository.java
- repository.MemoryMemberRepository
-domain/Member.java
- domain.Member
